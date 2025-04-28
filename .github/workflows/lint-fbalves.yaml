@@ -8,4 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: PHP-CS-Fixer
-        uses: falves97/FBAlves-PHP-CS-Fixer@v1-beta
+        uses: falves97/php-cs-fixer-action@v1-beta
