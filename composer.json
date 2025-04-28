@@ -17,6 +17,6 @@
         "friendsofphp/php-cs-fixer": "^3.75"
     },
     "scripts": {
-
+        "fixer:check": "php-cs-fixer check --diff"
     }
 }
