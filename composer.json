@@ -1,6 +1,8 @@
 {
     "name": "fbalves/fixer",
+    "description": "Simple project to test",
     "type": "project",
+    "lisence": "MIT",
     "autoload": {
         "psr-4": {
             "Fbalves\\Fixer\\": "src/"
@@ -15,6 +17,6 @@
         "friendsofphp/php-cs-fixer": "^3.75"
     },
     "scripts": {
-        
+
     }
 }
