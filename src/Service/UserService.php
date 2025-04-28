@@ -9,6 +9,5 @@ class UserService
     public function userNameToLower(User $user): string
     {
         return strtolower($user->name);
-
     }
 }

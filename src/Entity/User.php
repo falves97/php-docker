@@ -7,6 +7,4 @@ class User
     public string $name  {
         set => $name = strtoupper($value);
     }
-
-
 }

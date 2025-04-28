@@ -3,9 +3,9 @@ on: [ push ]
 name: FBAlves Lint
 jobs:
   php-cs-fixer:
-    name: FBAlves-PHP-CS-Fixer
+    name: PHP
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: PHP-CS-Fixer
+      - name: FBAlves-PHP-CS-Fixer
         uses: falves97/FBAlves-PHP-CS-Fixer@v1-beta
