@@ -1,0 +1,20 @@
+{
+    "name": "fbalves/fixer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fbalves\\Fixer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Braga Alves"
+        }
+    ],
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.75"
+    },
+    "scripts": {
+        
+    }
+}
