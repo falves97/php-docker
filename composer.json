@@ -2,7 +2,7 @@
     "name": "fbalves/fixer",
     "description": "Simple project to test",
     "type": "project",
-    "lisence": "MIT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Fbalves\\Fixer\\": "src/"
